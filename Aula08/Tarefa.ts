@@ -2,10 +2,11 @@
 //class Pessoa{
     //public nome: String;
     //public idade: Number;
-    //public peso: Number;
+    //public cabelo: String;
     //public familia: string;
     //public altura: Number;
    //private cpf: Number
+
     //dorme(){
     //}
     //come(){
@@ -28,6 +29,7 @@
     //private IA: string;
     //private aplicativos: string;
     //private bateria: number
+
     //ligar(){
 
     //}
@@ -53,9 +55,9 @@ class Gato{
     public nome: string;
     public especie: string
     public idade: number;
-    public vida: number;
-    private dono: string;
-    private racao: string
+    public pelagem: String;
+    public genero: string;
+    public peso: number;
 
     arranha(){
 
