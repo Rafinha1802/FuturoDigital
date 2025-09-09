@@ -16,10 +16,7 @@
    //this.cpf = cpf
 
    //}
-   //const pessoa1 = new Pessoa('Ana', '30', 'ruiva', 'Monteiro', 1.50, 2090305960)
-   //const pessoa2 = new Pessoa('Joaquim', '10', 'loiro', 'Barbosa',1.20, 675849439567 )
-   //const pessoa3 = new Pessoa('Raquel', '23', 'castanho', 'Aroeira', 1.65, '57543428201')
-
+   
     //dorme(){
     //console.log("zzzzzzzzz")
     //}
@@ -38,7 +35,10 @@
     //pinta(){
     //console.log("uhuuu")
     //}
-   
+   //const pessoa1 = new Pessoa('Ana', '30', 'ruiva', 'Monteiro', 1.50, 2090305960)
+   //const pessoa2 = new Pessoa('Joaquim', '10', 'loiro', 'Barbosa',1.20, 675849439567 )
+   //const pessoa3 = new Pessoa('Raquel', '23', 'castanho', 'Aroeira', 1.65, '57543428201')
+
 //}
 //Celular
 //class Celular{
@@ -57,9 +57,7 @@
     //this.aplicativos = aplicativos
     //this.bateria = bateria
     //}
-    //const celular1 = new Celular('17', 'Iphone', '48 megapixel', 'preto', 'vários aplicativos', '3.600 mAh')
-    //const celular2 = new Celular('S23', 'Samsung', '50 megapixel', 'azul', 'vários aplicativos','4,500 mAh')
-    //const celular3 = new Celular('14', 'Iphone','12 megapixel', 'branco', 'vários aplicativos, '3.279 mAh')
+
 
     //ligar(){
     //console.log("Hello")
@@ -79,6 +77,10 @@
     //acessar(){
     //console.log("zimmm")
 //}
+//const celular1 = new Celular('17', 'Iphone', '48 megapixel', 'preto', 'vários aplicativos', '3.600 mAh')
+    //const celular2 = new Celular('S23', 'Samsung', '50 megapixel', 'azul', 'vários aplicativos','4,500 mAh')
+    //const celular3 = new Celular('14', 'Iphone','12 megapixel', 'branco', 'vários aplicativos, '3.279 mAh')
+
 //Animal
 
 class Gato{
