@@ -85,13 +85,13 @@
 
 class Gato{
     public nome: string;
-    public especie: string
+    public especie: string;
     public idade: number;
-    public pelagem: String;
+    public pelagem: string;
     public genero: string;
     public peso: number;
 
-    constructor(nome, especie, idade, pelagem, genero, peso){
+    constructor(nome: string, especie: string, idade: number, pelagem: string, genero: string, peso: number){
         this.nome = nome;
         this.especie = especie;
         this.idade = idade;
